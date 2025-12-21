@@ -20,7 +20,4 @@ Interaktive Elemente zur Steigerung der Nutzer:innenbindung
 Responsives Layout für verschiedene Endgeräte
 
 # Verwendete Technologien
-HTML5
-CSS3
-JavaScript
-Tailwind
+HTML5, CSS3, JavaScript, Tailwind
